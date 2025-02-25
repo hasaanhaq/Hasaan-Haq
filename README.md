@@ -25,6 +25,8 @@
 ## 📊 GitHub Stats
 ![Hasaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasaanhaq&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasaanhaq&layout=compact&theme=dark)
+![Profile Views](https://komarev.com/ghpvc/?username=hasaanhaq&color=blue)
+
 
 ---
 ## ⚡ Fun Fact
