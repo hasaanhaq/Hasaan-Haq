@@ -6,9 +6,6 @@
 
 # Hi there! 👋 I'm Hasaan Haq 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=34D399&lines=Embedded+Systems+Engineer;Firmware+Developer;Hardware+Enthusiast)
-
-
-
 🚀 **Computer Engineering Student** at UC San Diego  
 💡 **Embedded Systems Enthusiast** | Firmware & Hardware Design  
 🔭 Currently interning at **Calpak USA, Inc.**  
