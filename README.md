@@ -1,4 +1,4 @@
-![Banner]([https://your-image-link-here.com/banner.png](https://pic-insider.blogspot.com/2021/08/view-20-nezuko-running-gif-png.html))
+![Banner]((https://pic-insider.blogspot.com/2021/08/view-20-nezuko-running-gif-png.html))
 
 
 # Hi there! 👋 I'm Hasaan Haq
