@@ -3,7 +3,7 @@
 🚀 **Computer Engineering Student** at UC San Diego  
 💡 **Embedded Systems Enthusiast** | Firmware & Hardware Design  
 🔭 Currently interning at **Calpak USA, Inc.**  
-🌐 [Portfolio](https://hasaanhaq04.github.io/hasaanhaq_portfolio/) | [LinkedIn](https://www.linkedin.com/in/hasaanhaq/) | [GitHub](https://github.com/hasaanhaq)
+🌐 [Portfolio](https://hasaanhaq04.github.io/hasaanhaq_portfolio/) | [LinkedIn](https://www.linkedin.com/in/hasaanhaq/)
 
 ---
 ## 🛠 Tech Stack
