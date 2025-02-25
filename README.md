@@ -1,4 +1,6 @@
 ![Banner](https://imgs.search.brave.com/0tXo0qtB8ILgyZr67I7CRE08FDAibFl9iCjF-kVDHmM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGZwcy5nZy9iYW5u/ZXJzLzM5NzQtY2Fy/cy5naWY.gif)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=34D399&lines=Embedded+Systems+Engineer;Firmware+Developer;Hardware+Enthusiast)
+
 
 
 # Hi there! 👋 I'm Hasaan Haq
