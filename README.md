@@ -1,4 +1,4 @@
-![Banner]((https://media1.tenor.com/m/1glY_gyV1zwAAAAC/initial-d-takumi-fujiwara.gif)
+![Banner](https://media1.tenor.com/m/1glY_gyV1zwAAAAC/initial-d-takumi-fujiwara.gif)
 
 
 
