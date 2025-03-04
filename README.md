@@ -27,6 +27,7 @@
 - 🔹 [USB-Multi-Port Inflator](https://github.com/hasaanhaq)
 - 🔹 [HTTP Chat Server](https://github.com/hasaanhaq/chatserver)
 - 🔹 [Password Cracker](https://github.com/hasaanhaq/password_cracker)
+- 🔹 [Personal Portfolio](https://github.com/hasaanhaq/hasaanhaq_portfolio)
 
 ---
 ## 📊 GitHub Stats
