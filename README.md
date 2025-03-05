@@ -48,17 +48,17 @@
 
   <!-- 🔥 GitHub Streak -->
   <a href="https://github.com/hasaanhaq">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hasaanhaq&theme=highcontrast&hide_border=true" alt="GitHub Streak"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hasaanhaq&theme=dracula&hide_border=true" alt="GitHub Streak"/>
   </a>
 
   <!-- 📊 GitHub Stats -->
   <a href="https://github.com/hasaanhaq">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasaanhaq&show_icons=true&theme=highcontrast&hide_border=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasaanhaq&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
   </a>
 
   <!-- 🏆 Most Used Languages -->
   <a href="https://github.com/hasaanhaq">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasaanhaq&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasaanhaq&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
   </a>
 
   <!-- 📈 Activity Graph -->
