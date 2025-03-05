@@ -31,24 +31,26 @@
 
 ---
 ## 📊 GitHub Stats  
-
 <div align="center">
+  
   <a href="https://github.com/hasaanhaq">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasaanhaq&theme=tokyonight&hide_border=true" alt="Hasaan's Streak Stats"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasaanhaq&theme=radical" alt="Hasaan's GitHub Profile Summary"/>
   </a>
-  <br>
+
   <a href="https://github.com/hasaanhaq">
-    <img src="https://github-readme-stats.vercel.app/api?username=hasaanhaq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hasaan's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hasaanhaq&theme=radical&hide_border=true" alt="Hasaan's Streak Stats"/>
   </a>
-  <br>
+
   <a href="https://github.com/hasaanhaq">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasaanhaq&layout=compact&theme=tokyonight&hide_border=true" alt="Hasaan's Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasaanhaq&show_icons=true&theme=radical&hide_border=true" alt="Hasaan's GitHub Stats"/>
   </a>
-  <br>
+
   <a href="https://github.com/hasaanhaq">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasaanhaq&theme=tokyonight" alt="GitHub Profile Summary"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasaanhaq&layout=compact&theme=radical&hide_border=true" alt="Hasaan's Top Languages"/>
   </a>
+
 </div>
+
 
 
 
