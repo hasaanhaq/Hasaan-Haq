@@ -8,7 +8,7 @@
 
 🚀 **Computer Engineering Student** at **UC San Diego**  
 💡 **Embedded Systems Enthusiast** | Firmware & Hardware Design  
-🔭 **Currently interning at** [Calpak USA, Inc.](https://calpak-usa.com/)  
+🔭 **Formerly an intern at** [Calpak USA, Inc.](https://calpak-usa.com/)  
 🌍 **Explore my work:**  
 🎨 [**Portfolio**](https://hasaanhaq04.github.io/hasaanhaq_portfolio/) | 💼 [**LinkedIn**](https://www.linkedin.com/in/hasaanhaq/) | 🏗️ [**GitHub**](https://github.com/hasaanhaq)
 
@@ -16,7 +16,7 @@
 
 ## 🚀 Tech Stack 🛠️  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,linux,arduino,vscode,raspberrypi,assembly" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,git,linux,arduino,vscode,raspberrypi,assembly" />
 </p>
 
 ---
