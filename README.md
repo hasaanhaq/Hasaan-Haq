@@ -30,10 +30,13 @@
 - 🔹 [Personal Portfolio](https://github.com/hasaanhaq/hasaanhaq_portfolio)
 
 ---
-## 📊 GitHub Stats
-![Hasaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasaanhaq&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasaanhaq&layout=compact&theme=dark)
-![Profile Views](https://komarev.com/ghpvc/?username=hasaanhaq&color=blue)
+## 📊 GitHub Stats  
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hasaanhaq&theme=radical&hide_border=true" alt="Hasaan's Streak Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasaanhaq&show_icons=true&theme=radical&hide_border=true" alt="Hasaan's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasaanhaq&layout=compact&theme=radical&hide_border=true" alt="Hasaan's Top Languages"/>
+</div>
+
 
 
 ---
