@@ -38,7 +38,7 @@
 
   <!-- 🐍 3D Contribution Graph -->
   <a href="https://github.com/hasaanhaq">
-    <img src="https://github.com/hasaanhaq/hasaanhaq/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+    <img src="https://github.com/hasaanhaq/hasaanhaq/raw/output/github-contribution-grid-snake.svg" />
   </a>
 
   <!-- 🎯 Profile Summary -->
