@@ -31,22 +31,38 @@
 
 ---
 ## 📊 GitHub Stats  
+## 🚀 GitHub Stats & Activity  
+
 <div align="center">
-  
+
+  <!-- 3D Contribution Graph -->
   <a href="https://github.com/hasaanhaq">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasaanhaq&theme=radical" alt="Hasaan's GitHub Profile Summary"/>
+    <img src="https://github.com/hasaanhaq/hasaanhaq/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   </a>
 
+  <!-- Profile Summary Card -->
   <a href="https://github.com/hasaanhaq">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hasaanhaq&theme=radical&hide_border=true" alt="Hasaan's Streak Stats"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasaanhaq&theme=radical" alt="GitHub Profile Summary"/>
   </a>
 
+  <!-- GitHub Streak -->
   <a href="https://github.com/hasaanhaq">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasaanhaq&show_icons=true&theme=radical&hide_border=true" alt="Hasaan's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hasaanhaq&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   </a>
 
+  <!-- GitHub Stats -->
   <a href="https://github.com/hasaanhaq">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasaanhaq&layout=compact&theme=radical&hide_border=true" alt="Hasaan's Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasaanhaq&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  </a>
+
+  <!-- Most Used Languages -->
+  <a href="https://github.com/hasaanhaq">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasaanhaq&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  </a>
+
+  <!-- Activity Graph -->
+  <a href="https://github.com/hasaanhaq">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasaanhaq&theme=tokyo-night&bg_color=0d1117&hide_border=true" alt="GitHub Activity Graph"/>
   </a>
 
 </div>
